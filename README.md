@@ -1,2 +1,2 @@
-# jiangwenyuan.github.io
+# JohnJiang.github.io
 Hello World!
